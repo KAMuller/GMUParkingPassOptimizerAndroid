@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buildings">
+        <item>No Class Today</item>
+        <item>David J. King Hall</item>
+        <item>Nguyen Engineering Building</item>
+        <item>Enterprise Hall</item>
+        <item>Innovation Hall</item>
+        <item>Krug Hall</item>
+        <item>Music Theater Building</item>
+        <item>Merten Hall</item>
+        <item>Planetary Hall</item>
+        <item>Robinson Hall</item>
+        <item>Thompson Hall</item>
+    </string-array>
+</resources>

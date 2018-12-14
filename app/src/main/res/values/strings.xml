@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GMU Parking Pass Optimizer</string>
+    <string name="title">GUM Parking Pass Optimiser</string>
+    <string name="mainBText">Calculate Optimal Pass</string>
+    <string name="rapRadio">Include Rapp Deck in General Pass</string>
+    <string name="ButClear">Clear Selection</string>
+    <string name="SchTitle">Select Your Class Buildings Below</string>
+    <string name="SchExp">Use your first class of the day to optimize for your morning walk, or last class for the afternoon walk back</string>
+    <string name="Mon">Monday Class</string>
+    <string name="Tues">Tuesday Class</string>
+    <string name="Wed">Wednesday Class</string>
+    <string name="Thurs">Thursday Class</string>
+    <string name="Fri">Friday Class</string>
+    <string name="Sat">Saturday Class</string>
+    <string name="calc">Calculate</string>
+    <string name="priceB">Sort By Pass Price</string>
+    <string name="walkB">Sort By Pass Walk</string>
+</resources>
